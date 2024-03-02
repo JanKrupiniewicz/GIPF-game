@@ -1,0 +1,1 @@
+This is a C++ project for the Gipf game, a two-player abstract strategy game. The project consists of two main classes, GipfGame and Solver, responsible for managing the game state and implementing the game's logic.
